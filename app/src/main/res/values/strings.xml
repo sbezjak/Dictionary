@@ -1,0 +1,21 @@
+
+<resources>
+    <!-- Title for the application. -->
+    <string name="app_name">Dictionary</string>
+
+    <!-- Category name for phrases -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers  -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for words and phrases for directions -->
+    <string name="category_directions">Directions</string>
+
+    <!-- Tab text for Directions -->
+    <string name="tab_directions">Directions</string>
+
+</resources>
